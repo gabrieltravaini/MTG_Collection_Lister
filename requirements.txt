@@ -1,0 +1,6 @@
+opencv-python
+easyocr
+requests
+torch
+torchvision
+torchaudio
